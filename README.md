@@ -22,13 +22,13 @@ https://pastebin.com/raw/kzTYuih8
 
 # How to install all packages ?
 **just open this bat file and all packages will be installed**
-![htiap](http://prntscr.com/nvytbg.jpg)
+![htiap](https://cdn.discordapp.com/attachments/575450551458856976/584044172789547011/Screenshot_1.png)
  
 -----------------------------------
 
 # How to use the bot ?
 **First Step:** First Make sure you install the nodejs 
-to install nodejs just open this file ![e](http://prntscr.com/nvyud0.jpg)
+to install nodejs just open this file ![e](https://cdn.discordapp.com/attachments/575450551458856976/584044307720175617/Screenshot_2.png)
 and download nodejs latest version and open it and install it .
 **Second Step:** Now open config folder and open config.json file 
 and paste the token and type the bot prefix you want and bot owners (devs) and adminsprefix
