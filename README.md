@@ -9,8 +9,10 @@ Moderator bot , Music bot , General Bot , Games Bot , etc**
 -----------------------------------
 
 # Warning:
-**Some of the codes are in the files of the synth
-But nearly 50% of my workmanship**
+**Note: 
+Im I have programmed almost half the bot, and the other half is taken from several Arab servers such as: Alpha Codes, S Codes, Codes, Toxic Codes, Snow Codes, etc.
+STAY AWESOME ,
+Enjoy.**
 
 -----------------------------------
 
