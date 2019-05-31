@@ -5,6 +5,7 @@
 **An Legendery Open Source Bot Using Discord.js Library (Javascript)
 Moderator bot , Music bot , General Bot , Games Bot , etc**
 **All the codes from the Arabic version**
+Invite the bot now ! : ![Click here](https://discordapp.com/oauth2/authorize?client_id=573008938069524481&permissions=8&scope=bot)
 
 -----------------------------------
 
@@ -49,5 +50,4 @@ I suggest you use Glitch.com
 Link: https://glitch.com
 
 -----------------------------------
-
 
