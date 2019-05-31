@@ -15,7 +15,7 @@ But nearly 50% of my workmanship**
 -----------------------------------
 
 # Commands :
-
+**Over than 100 commands !**
 https://pastebin.com/raw/kzTYuih8
 
 -----------------------------------
@@ -33,7 +33,12 @@ and download nodejs latest version and open it and install it .
 **Second Step:** Now open config folder and open config.json file 
 and paste the token and type the bot prefix you want and bot owners (devs) and adminsprefix
 
-**Third Step:** Now open profile commands folder and open botconfig.json and type your prefix
+**Third Step:**
+Now open profile commands folder and open botconfig.json and type your prefix
+
+**Fourth Step:** Now your bot is ready to be online ! just open start.bat if you will running with windows
+and if you using a server just type in the console node start.js
+so the main file is start.js .
 
 -----------------------------------
 
